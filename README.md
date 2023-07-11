@@ -14,8 +14,11 @@ Google Cloud Platform
 4. Looker Studio
 
 GCP Login detail                                  - https://console.cloud.google.com/welcome?project=serious-azimuth-358905
+
 Modern Data Pipeine Tool                          - https://www.mage.ai/
+
 Looker Studio for dashboard creation              - https://lookerstudio.google.com/u/0/navigation/reporting 
+
 Website created in mage for applying etl pipeline - https://35.244.17.11/6789/pipeline
 
 ## Dataset Used
