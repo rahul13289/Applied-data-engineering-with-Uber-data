@@ -21,6 +21,11 @@ Looker Studio for dashboard creation              - https://lookerstudio.google.
 
 Website created in mage for applying etl pipeline - https://35.244.17.11/6789/pipeline
 
+ER model designing                                - https://lucid.app/
+
+Uber ER deisned model                             - https://lucid.app/publicSegments/view/167b1b16-b9e6-4f1e-ac33-156a052cc5fa/image.png
+
+
 ## Dataset Used
 TLC Trip Record Data
 Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. 
