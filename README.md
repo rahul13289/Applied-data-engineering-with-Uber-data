@@ -1,5 +1,7 @@
 # APPLYING ETL PIPELINE AND DATA ENGINEERING WITH UBER DATA
 
+![image](https://github.com/rahul13289/Applied-data-engineering-with-Uber-data/assets/97829880/80b646e4-6b67-424e-8f52-6aade36518bd)
+
 ## Introduction
 
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
